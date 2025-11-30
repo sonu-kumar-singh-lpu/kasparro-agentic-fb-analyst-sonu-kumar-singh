@@ -1,0 +1,10 @@
+{
+  "query": "Analyze ROAS drop",
+  "timestamp": "2025-11-30T00:13:28.911408",
+  "low_ctr_campaigns": [
+    "Men Bold Colors Drop",
+    "WOMEN Seamless Everyday"
+  ],
+  "num_hypotheses": 2,
+  "top_hypothesis": "Creative fatigue or weak messaging"
+}

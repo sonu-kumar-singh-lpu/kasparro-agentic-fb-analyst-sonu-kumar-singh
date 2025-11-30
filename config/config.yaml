@@ -1,0 +1,18 @@
+python: "3.10"
+random_seed: 42
+
+# Data settings
+use_sample_data: true
+data_csv: "data/synthetic_fb_ads_undergarments.csv"
+
+
+# Output folder
+output_dir: "reports"
+
+# Thresholds for analysis
+low_ctr_threshold: 0.01     # CTR < 1% means creative is weak
+low_roas_threshold: 0.5     # ROAS < 0.5 considered poor
+confidence_min: 0.6         # evaluator confidence threshold
+
+# Statistical evaluator settings
+min_samples_for_stat_test: 30
