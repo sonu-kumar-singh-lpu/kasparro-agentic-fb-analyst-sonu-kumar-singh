@@ -13,6 +13,9 @@ The system follows a complete **Planner → Agents → Evaluator → Creative Ge
 - Execution logs (`logs/`)
 
 ---
+<p align="center">
+  <img src="assets/demo.gif" width="800">
+</p>
 
 ## 🗂️ 1. Project Structure
 
