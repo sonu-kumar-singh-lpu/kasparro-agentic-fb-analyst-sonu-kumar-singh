@@ -1,4 +1,4 @@
-# 📊 Kasparro — Agentic FB Ads Performance Analyst
+# 📊Agentic FB Ads Performance Analyst
 
 **Applied AI Engineer Assignment — Sonu Kumar Singh**
 
@@ -170,19 +170,9 @@ pytest tests/
 
 ---
 
-## 📝 7. Submission
 
-Publish your project on GitHub as:
 
-```
-kasparro-agentic-fb-analyst-sonu-kumar-singh
-```
-
-Then submit the GitHub link in the form.
-
----
-
-## 👤 8. Author
+## 👤 7. Author
 
 **Sonu Kumar Singh**  
 Applied AI Engineer Assignment — Kasparro
@@ -191,7 +181,7 @@ Applied AI Engineer Assignment — Kasparro
 
 ## 📄 License
 
-This project is submitted as part of the Kasparro Applied AI Engineer assignment.
+This project is submitted as part of the Applied AI Engineer assignment.
 
 ---
 
